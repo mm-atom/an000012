@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/an000012",
-	"version": "1.0.0",
+	"version": "1.0.202003111746",
 	"description": "获取某天的结束时间",
 	"scripts": {
 		"test": "tsc && ava ./tests/*.js",
